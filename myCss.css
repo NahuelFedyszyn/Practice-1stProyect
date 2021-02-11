@@ -1,0 +1,66 @@
+body{
+    background: #f1f2f6;
+    align-items: center;
+}
+
+.mainDiv{
+    margin:auto;
+    width: 960px;
+    height: auto;
+    box-shadow: rgba(0, 0, 0, 0.433) -3px -1px 3px 3px;
+    padding: 20px;
+    background-image:linear-gradient(rgba(238, 117, 37, 0.666),rgb(90, 43, 11));
+}
+
+.paragraphs{
+    background:white;
+    box-shadow: rgba(0, 0, 0, 0.124) -3px -1px 3px 3px;
+}
+
+p{
+    
+    margin: 0px;
+    padding: 10px 15px;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+h2, h3, h4{
+    margin: 10px;
+}
+
+footer{
+    color:white;
+}
+
+h4{
+    font-size: 28px;
+    text-shadow: 1px;
+    color:white;
+    background-image: linear-gradient(to right, rgb(90, 43, 11) 80%, rgba(238, 117, 37, 0));
+    padding: 0px 20px;
+    margin: 0px 0px;
+    border-radius: 0px 5px 5px 0px;
+    font-style: italic;
+}
+
+h1{
+    font-size: 60px;
+    margin-top: 0px;
+}
+
+h2{
+    font-size: 45px;
+}
+
+h3{
+    font-size: 35px;
+}
+
+section h2{
+    text-align: center;
+    padding:25px 00px;
+    box-shadow: rgba(0, 0, 0, 0.124) -3px -1px 3px 3px;
+    background-image:linear-gradient(to right ,rgb(240, 190, 98),rgb(255, 255, 255,0.2));
+}
